@@ -1,19 +1,4 @@
 ﻿Entries:
-- author: Minemoder
-  changes:
-  - message: Most roles on the station now require significantly less playtime playtime
-      to unlock.
-    type: Tweak
-  id: 8265
-  time: '2025-04-19T15:31:38.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/36666
-- author: Fildrance
-  changes:
-  - message: fixed spessman getting stuck after unlocking portal node
-    type: Fix
-  id: 8266
-  time: '2025-04-19T17:07:23.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/36719
 - author: VlaDOS1408
   changes:
   - message: Fixed Gravity gen menu resizing! Now it looks like it should.
@@ -3900,3 +3885,17 @@
   id: 8777
   time: '2025-07-16T03:18:55.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/38918
+- author: ScarKy0
+  changes:
+  - message: Wizard's Mjollnir can no longer stun when thrown off-cooldown.
+    type: Fix
+  id: 8778
+  time: '2025-07-16T20:27:21.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/39018
+- author: SlamBamActionman
+  changes:
+  - message: Grilles under diagonal windows no longer electrocute you.
+    type: Fix
+  id: 8779
+  time: '2025-07-17T13:33:47.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/39032
